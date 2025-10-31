@@ -8,12 +8,6 @@ This project is a dynamic, responsive product catalog page for Hami MiniMarket, 
 
 This project was completed as part of the HamiSkills Web Development Internship (Week 2 Task).
 
-## Live Demo
-
-[![Live Demo](https://img.shields.io/badge/Vercel-Live%20Demo-black?style=for-the-badge&logo=vercel)](https://hami-market-week2.vercel.app/)
-
-(Link to your deployed Vercel, Netlify, or GitHub Pages site)
-
 ## Features Implemented
 
 - **Dynamic Product Catalog:** Products are now loaded dynamically from a JavaScript array, making the catalog manageable and scalable.
@@ -50,5 +44,10 @@ This project was completed as part of the HamiSkills Web Development Internship 
 3. The website will load immediately
 
 That's it! No additional setup or installation required.
+
+## Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Vercel-Live%20Demo-black?style=for-the-badge&logo=vercel)](https://hami-market-week2.vercel.app/)
+
 
 Hami MiniMarket - Fresh. Local. Trusted. 🥬🍎🥕
