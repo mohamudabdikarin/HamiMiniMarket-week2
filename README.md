@@ -11,21 +11,21 @@ This project was completed as part of the HamiSkills Web Development Internship 
 ## Features Implemented
 
 - **Dynamic Product Catalog:** Products are now loaded dynamically from a JavaScript array, making the catalog manageable and scalable.
-- 
+ 
 - **Real-time Search:** A search bar allows users to filter products by name instantly as they type.
-- 
+ 
 - **Category Filter:** Users can filter products by category ("All", "Fruits", "Vegetables") using interactive buttons.
-- 
+ 
 - **Price Filter:** A sleek range slider allows users to filter products by a maximum price.
-- 
+ 
 - **Responsive Design:** The entire page, including the new filter bar and product grid, is fully responsive and optimized for mobile, tablet, and desktop devices.
-- 
+ 
 - **"Add to Cart" Functionality (Bonus)**: Each product card features an "Add to Cart" button.
-- 
+ 
 - **Cart Counter (Bonus):** A cart icon in the navigation bar updates with a counter each time a product is added.
-- 
+ 
 - **Brand Consistency:** All new elements are styled to perfectly match the existing brand identity, using the established CSS color palette and typography.
-- 
+ 
 - **Smooth Animations:** New product cards fade and slide in on scroll, and buttons feature clean hover effects, consistent with the original site's feel.
 
 ## Technologies Used
